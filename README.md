@@ -47,7 +47,10 @@ Ok now almost finished only set your wi-fi name and password then upload code on
 
 NodeMcu to GPS connection. If all are ok then final show:
 
-GPS Taker final interface. Download Arduino firmware and library Click Here.
+GPS Taker final interface. Download Arduino firmware.
 Schematics
+![circuit_schem_mUCKX2tly5](https://user-images.githubusercontent.com/91609293/135745523-33647249-fc2d-4702-80e5-6cdef417deb5.png)
+
+
 -nodemcu-gps-tracker.
 
